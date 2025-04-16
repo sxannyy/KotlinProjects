@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ждунишка</string>
+    <string name="waiting_text">Время созерцания: %1$d мин.</string>
+    <string name="tired_text">Надоело ждать?..</string>
+    <string name="toast_text">Ждун устал, уходит в отпуск!</string>
+    <string name="low_battery_text">Накормите Ждуна, его силы на исходе!</string>
+
+</resources>
