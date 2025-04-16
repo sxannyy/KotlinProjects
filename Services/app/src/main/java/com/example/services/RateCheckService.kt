@@ -96,7 +96,4 @@ class RateCheckService : Service() {
             context.stopService(Intent(context, RateCheckService::class.java))
         }
     }
-
-
-
 }
