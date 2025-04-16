@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetUSDRate</string>
+    <string name="refresh_rate">Обновить</string>
+    <string name="usd_rate">Текущая оценка:</string>
+    <string name="target_rate_empty">Вы не заполнили поле ожидаемой оценки!</string>
+    <string name="current_rate_empty">Текущая оценка пуста!</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="target_rate">Ожидаемая оценка:</string>
+</resources>
