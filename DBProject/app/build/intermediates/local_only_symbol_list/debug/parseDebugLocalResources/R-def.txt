@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id best
+id companies_list
+id delete
+id english
+id good
+id longest
+id main
+id money
+id statistics
+id textView
+id textView1
+id textView2
+id textView3
+id textView4
+id textView5
+id textView6
+id toDelete
+layout activity_main
+layout activity_stat
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.DBProject
+style Theme.DBProject
+xml backup_rules
+xml data_extraction_rules
